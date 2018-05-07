@@ -1,0 +1,1 @@
+### check flume metrics and get channelFillPercentage value,if it over threshold,send alert email to author.
